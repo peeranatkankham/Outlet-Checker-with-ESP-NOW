@@ -1,0 +1,16 @@
+{
+  "codename": "Font0",
+  "ttf_path": "/assets/NicoMoji-Regular.ttf",
+  "bin_path": "/assets\\ui_font_Font0.bin",
+  "c_path": "/assets\\ui_font_Font0.c",
+  "cfg_path": "/assets\\ui_font_Font0.fcfg",
+  "size": 19,
+  "bpp": 1,
+  "letters": 0,
+  "ranges": [
+    "0x20-0x7f"
+  ],
+  "symbols": "",
+  "customparams": "--no-compress --no-prefilter",
+  "uploaded": false
+}
